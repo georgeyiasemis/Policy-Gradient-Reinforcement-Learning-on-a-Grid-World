@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar 22 2021
+@author: George Yiasemis
+"""
+
 import torch
 import torch.nn as nn
 import torch.distributions as distributions
