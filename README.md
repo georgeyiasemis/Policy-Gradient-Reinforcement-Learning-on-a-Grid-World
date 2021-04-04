@@ -14,4 +14,4 @@ In ```main.py``` define the environment and the agent, as well as the hyperparam
 * ```pytorch```
 * ```numpy```
 * ```opencv```
-* ```matplitlib```.
+* ```matplotlib```.
